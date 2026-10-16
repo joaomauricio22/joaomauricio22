@@ -99,8 +99,8 @@ Pretendo reunir aqui projetos envolvendo:
 
 Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer oportunidades de desenvolvimento profissional nas áreas de Ciência de Dados, Machine Learning e tecnologia.
 
-- 💼 LinkedIn: [Adicione seu perfil aqui](https://www.linkedin.com/in/joao-mauricio-791325293)
-- 📧 E-mail: [Adicione seu e-mail profissional aqui](mailto:jo22mauricio@gmail.com)
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/joao-mauricio-791325293)
+- 📧 E-mail: [Clique aqui](mailto:jo22mauricio@gmail.com)
 
 ---
 
